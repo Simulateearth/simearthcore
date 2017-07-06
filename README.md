@@ -17,7 +17,7 @@ Structure of the values and lists of information that get changed in every step.
 * Effects
 Functions that get triggered based on the state and manipulate the state for the next step. Effects are based on Actions that can be as simple as multiplying a value or as complex as connecting an API. Effects can be configured to listen to certain events or only run under certain conditions.
 * Controls
-Controls visualize the current state and provide the possibility to interact with the process while it's running. This can reach from simple number output to a timegraph or even an interactive map.
+Visualize the current state and provide the possibility to interact with the process while it's running. This can reach from simple number output to a timegraph or even an interactive map.
 
 ### Core Engine (TypeScript)
 
@@ -35,4 +35,4 @@ The web UI is written in Angular and provides visualization and interaction for 
 
 ### Community Platform
 
-The platform simulateearth.com is the public hup for this project where users can play with the simulation games. The can also register and create as well as run their own simulations. 
+The platform simulateearth.com is the public hub for this project where users can play with the simulation games. The can also register and create as well as run their own simulations. 
