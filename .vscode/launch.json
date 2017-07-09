@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "prototype001",
+      "preLaunchTask": "tsc",
+      "program": "${workspaceRoot}/src/prototype001/index.ts",
+      "cwd": "${workspaceRoot}",
+      "outFiles": [
+        "${workspaceRoot}/dist/**/*.js"
+      ],
+      "sourceMaps": true
+    },
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Attach to Process",
+      "port": 5858,
+      "outFiles": [],
+      "sourceMaps": true
+    }
+  ]
+}

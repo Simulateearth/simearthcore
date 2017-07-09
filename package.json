@@ -1,0 +1,27 @@
+{
+  "name": "simearthcore",
+  "version": "1.0.0",
+  "description": "Gamified, transparent, configurable and simple simulations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "lint": "tslint ./src/**/*.ts"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixideas/simearthcore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixideas/simearthcore/issues"
+  },
+  "homepage": "https://github.com/felixideas/simearthcore#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.9",
+    "typescript": "^2.4.1"
+  }
+}
