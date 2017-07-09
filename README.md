@@ -36,3 +36,6 @@ The web UI is written in Angular and provides visualization and interaction for 
 ### Community Platform
 
 The platform simulateearth.com is the public hub for this project where users can play with the simulation games. The can also register and create as well as run their own simulations. 
+
+# sources 
+thesolutionsproject.com
