@@ -36,3 +36,17 @@ The web UI is written in Angular and provides visualization and interaction for 
 ### Community Platform
 
 The platform simulateearth.com is the public hub for this project where users can play with the simulation games. The can also register and create as well as run their own simulations. 
+
+# Notes
+
+## Project setup / Typescript
+
+```
+npm init -y
+npm install typescript --save-dev
+npm install @types/node --save-dev
+node ./node_modules/typescript/lib/tsc --init # check/change tsconfig.json
+mkdir .vscode
+touch .vscode/launch.json # check/change .vscode/launch.json
+# in vscode "cmd+shift+p" => Task Runner, configure, typescript ...
+```
