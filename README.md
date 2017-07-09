@@ -50,3 +50,7 @@ mkdir .vscode
 touch .vscode/launch.json # check/change .vscode/launch.json
 # in vscode "cmd+shift+p" => Task Runner, configure, typescript ...
 ```
+
+# Sources 
+* thesolutionsproject.com
+* http://www.worldometers.info/
