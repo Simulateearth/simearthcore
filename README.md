@@ -51,6 +51,7 @@ touch .vscode/launch.json # check/change .vscode/launch.json
 # in vscode "cmd+shift+p" => Task Runner, configure, typescript ...
 ```
 
-# Sources 
-* thesolutionsproject.com
+# Sources, tools, hints
+* http://www.thesolutionsproject.com/
 * http://www.worldometers.info/
+* http://www.gapminder.org/
