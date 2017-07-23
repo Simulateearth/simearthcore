@@ -52,6 +52,7 @@ touch .vscode/launch.json # check/change .vscode/launch.json
 ```
 
 ## Sources, tools, hints
+* [World Statistics](http://world-statistics.org/)
 * [World bank](http://data.worldbank.org/indicator/AG.LND.FRST.K2?end=2015&name_desc=false&start=1990&view=map)
 * [Future timeline](http://futuretimeline.net/)
 * [Run untrusted User JavaScript in Worker](https://www.softfluent.com/blog/dev/Executing-untrusted-JavaScript-code-in-a-browser)
