@@ -59,3 +59,4 @@ touch .vscode/launch.json # check/change .vscode/launch.json
 * http://www.thesolutionsproject.com/
 * http://www.worldometers.info/
 * http://www.gapminder.org/
+* https://github.com/toddmotto/public-apis
